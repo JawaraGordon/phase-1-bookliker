@@ -9,12 +9,8 @@
       "img_url": "https://books.google.com/books/content?id=3S8Rwr-iBdoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 2,
-          "username": "auer"
-        },
-        {
           "id": 8,
-          "username": "maverick"
+          "username": "John"
         }
       ]
     },
@@ -27,20 +23,12 @@
       "img_url": "https://books.google.com/books/content?id=GdmEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
+          "id": 8,
+          "username": "Jawara"
+        },
+        {
           "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 4,
-          "username": "ann"
-        },
-        {
-          "id": 6,
-          "username": "steuber"
-        },
-        {
-          "id": 1,
-          "username": "pouros"
+          "username": "Gordon"
         }
       ]
     },
@@ -54,11 +42,11 @@
       "users": [
         {
           "id": 8,
-          "username": "maverick"
+          "username": "Jawara"
         },
         {
-          "id": 9,
-          "username": "alex"
+          "id": 10,
+          "username": "Gordon"
         }
       ]
     },
@@ -71,11 +59,11 @@
       "users": [
         {
           "id": 10,
-          "username": "macejkovic"
+          "username": "Gordon"
         },
         {
           "id": 8,
-          "username": "maverick"
+          "username": "Jawara"
         }
       ]
     },
@@ -88,16 +76,8 @@
       "img_url": "https://books.google.com/books/content?id=hxGuDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 4,
-          "username": "ann"
-        },
-        {
           "id": 8,
-          "username": "maverick"
+          "username": "John"
         }
       ]
     },
@@ -111,11 +91,11 @@
       "users": [
         {
           "id": 7,
-          "username": "steuber"
+          "username": "Amy"
         },
         {
           "id": 4,
-          "username": "ann"
+          "username": "Nick"
         }
       ]
     },
@@ -128,12 +108,8 @@
       "img_url": "http://books.google.com/books/content?id=FLFoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 3,
-          "username": "marvin"
-        },
-        {
-          "id": 5,
-          "username": "feels-like-summer"
+          "id": 8,
+          "username": "John"
         }
       ]
     },
@@ -147,15 +123,15 @@
       "users": [
         {
           "id": 9,
-          "username": "alex"
+          "username": "Steph"
         },
         {
           "id": 3,
-          "username": "marvin"
+          "username": "Enzo"
         },
         {
           "id": 2,
-          "username": "auer"
+          "username": "Cairo"
         }
       ]
     },
@@ -169,15 +145,7 @@
       "users": [
         {
           "id": 8,
-          "username": "maverick"
-        },
-        {
-          "id": 6,
-          "username": "steuber"
-        },
-        {
-          "id": 5,
-          "username": "feels-like-summer"
+          "username": "John"
         }
       ]
     },
@@ -191,11 +159,11 @@
       "users": [
         {
           "id": 8,
-          "username": "maverick"
+          "username": "Jawara"
         },
         {
           "id": 10,
-          "username": "macejkovic"
+          "username": "Gordon"
         }
       ]
     },
@@ -209,11 +177,11 @@
       "users": [
         {
           "id": 8,
-          "username": "maverick"
+          "username": "John"
         },
         {
           "id": 10,
-          "username": "macejkovic"
+          "username": "Doe"
         }
       ]
     }
@@ -221,43 +189,43 @@
   "users": [
     {
       "id": 1,
-      "username": "pouros"
+      "username": "George"
     },
     {
       "id": 2,
-      "username": "auer"
+      "username": "Cairo"
     },
     {
       "id": 3,
-      "username": "marvin"
+      "username": "Enzo"
     },
     {
       "id": 4,
-      "username": "ann"
+      "username": "Nick"
     },
     {
       "id": 5,
-      "username": "feels-like-summer"
+      "username": "Guiseppe"
     },
     {
       "id": 6,
-      "username": "steuber"
+      "username": "Chris"
     },
     {
       "id": 7,
-      "username": "summerqueen98"
+      "username": "Amy"
     },
     {
       "id": 8,
-      "username": "maverick"
+      "username": "Jawara"
     },
     {
       "id": 9,
-      "username": "alex"
+      "username": "Steph"
     },
     {
       "id": 10,
-      "username": "macejkovic"
+      "username": "Gordon"
     }
   ]
 }
